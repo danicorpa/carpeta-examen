@@ -19,6 +19,6 @@
 
 > git --version
 
-![](https://github.com/danicorpa/ca)
+![](/img/git-version.png)
 
 Todo está en el [Aula Virtual](https://aulavirtual33.educa.madrid.org/ies.quevedo.madrid/course/view.php?id=669)
